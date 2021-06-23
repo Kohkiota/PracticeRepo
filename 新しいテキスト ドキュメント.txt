@@ -4,3 +4,5 @@ rebase test 1
 ２
 ３
 ４
+5
+6
