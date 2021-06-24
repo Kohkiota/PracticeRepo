@@ -2,7 +2,11 @@ rebase test 1
 
 １
 ２
+いっすえ２
 ３
 ４
+issue2
 5
 6
+
+issue2
