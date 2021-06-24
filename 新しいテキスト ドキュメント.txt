@@ -9,3 +9,8 @@ merge                               mergemerge
 merge       とりこまれたいよ        mergemerge
 merge                               mergemerge
 mergemergemergemergemergemergemergemergemerge
+２
+３
+４
+5
+6
